@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlternativeResources</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="text1">Je m\'appelle Aleeha Shafique</string>
+    <string name="text2">Je suis étudiant en informatique.</string>
+</resources>
